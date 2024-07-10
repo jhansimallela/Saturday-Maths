@@ -1,5 +1,7 @@
 # Saturday-Maths
 
+Description: Notes and reference links for weekly saturday discussion on Linear Algebra and Machine Learning concepts.
+
 ## Linear Algebra
 | S. No | Topic Name (Hyperlinked)  | Date | Person name | Reference Links |
 | :---: | :---: | :---: | :---: | :---: | 

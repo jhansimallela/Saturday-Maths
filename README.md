@@ -13,6 +13,6 @@ Description: Notes and reference links for weekly saturday discussion on Linear 
 | S. No | Topic Name (Hyperlinked)  | Date | Person name | Reference Links |
 | :---: | :---: | :---: | :---: | :---: | 
 | 0  | [Dummy](https://github.com/cvthirumalakumar/Saturday-Maths/blob/main/Notes/ML/Dummy.pdf)  | 00-00-0000  | Dummy  | [Link-1](https://github.com/cvthirumalakumar/Saturday-Maths), [Link-2](https://github.com/cvthirumalakumar/Saturday-Maths) |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | |
+| 1  | Expectation Maximization  | 29/06/2024 | Anindita | [Expectation-maximization: theory and intuition](https://mbernste.github.io/posts/em/)|
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | |

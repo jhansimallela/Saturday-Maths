@@ -1,14 +1,14 @@
 # Saturday-Maths
 
 ## Linear Algebra
-| Topic Name (Hyperlinked)  | date | Person name |
+| Topic Name (Hyperlinked)  | Date | Person name |
 | ------------- | ------------- | ------------- | 
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
 
 
 ## Machine Learning
-| Topic Name (Hyperlinked)  | date | Person name |
+| Topic Name (Hyperlinked)  | Date | Person name |
 | ------------- | ------------- | ------------- | 
 | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  |
